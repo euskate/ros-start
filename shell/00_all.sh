@@ -1,0 +1,11 @@
+#!/bin/sh
+./01_setting.sh
+./02_locale.sh
+./03_universe.sh
+./04_gpgkey.sh
+./05_ros_desktop.sh
+./06_package.sh
+./07_bashrc_add.sh
+./08_devtools.sh
+./09_build_test.sh
+./10_gazebo_rviz2.sh
