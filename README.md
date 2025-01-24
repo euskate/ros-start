@@ -41,3 +41,12 @@ echo 'alias sb="source ~/.bashrc; echo \"bashrc is reloaded\""' >> ~/.bashrc
 echo "alias humble=\"source /opt/ros/humble/setup.bash; echo \'ROS Humble activated\'\"" >> ~/.bashrc
 
 ``
+
+## 패키지 만들기
+
+- 패키지 구성 
+ros2 pkg create [생성할 패키지이름] --build-type [빌드타입] --dependencies [의존하는패키지1] [의존하는 패키지n]**
+
+```
+ros2 pkg create my_first_ros_rclpy_pkg --build-type ament_pyth
+```
