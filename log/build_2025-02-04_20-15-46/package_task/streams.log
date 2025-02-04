@@ -1,0 +1,21 @@
+[1.476s] Invoking command in '/home/es/ros-start/build/package_task': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data
+[2.002s] running develop
+[2.463s] running egg_info
+[2.496s] writing package_task.egg-info/PKG-INFO
+[2.498s] writing dependency_links to package_task.egg-info/dependency_links.txt
+[2.500s] writing entry points to package_task.egg-info/entry_points.txt
+[2.500s] writing requirements to package_task.egg-info/requires.txt
+[2.501s] writing top-level names to package_task.egg-info/top_level.txt
+[2.546s] reading manifest file 'package_task.egg-info/SOURCES.txt'
+[2.549s] writing manifest file 'package_task.egg-info/SOURCES.txt'
+[2.570s] running build_ext
+[2.570s] Creating /home/es/ros-start/install/package_task/lib/python3.10/site-packages/package-task.egg-link (link to .)
+[2.571s] Installing task_node script to /home/es/ros-start/install/package_task/lib/package_task
+[2.572s] Installing turtle_controller script to /home/es/ros-start/install/package_task/lib/package_task
+[2.572s] Installing turtle_patterns script to /home/es/ros-start/install/package_task/lib/package_task
+[2.573s] Installing turtle_race script to /home/es/ros-start/install/package_task/lib/package_task
+[2.573s] Installing turtle_spawn script to /home/es/ros-start/install/package_task/lib/package_task
+[2.573s] 
+[2.573s] Installed /home/es/ros-start/build/package_task
+[2.573s] running symlink_data
+[2.646s] Invoked command in '/home/es/ros-start/build/package_task' returned '0': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data

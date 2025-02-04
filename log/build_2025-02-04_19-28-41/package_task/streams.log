@@ -1,0 +1,22 @@
+[1.156s] Invoking command in '/home/es/ros-start/build/package_task': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data
+[1.633s] running develop
+[1.901s] running egg_info
+[1.901s] creating package_task.egg-info
+[1.919s] writing package_task.egg-info/PKG-INFO
+[1.919s] writing dependency_links to package_task.egg-info/dependency_links.txt
+[1.919s] writing requirements to package_task.egg-info/requires.txt
+[1.919s] writing top-level names to package_task.egg-info/top_level.txt
+[1.919s] writing manifest file 'package_task.egg-info/SOURCES.txt'
+[1.955s] reading manifest file 'package_task.egg-info/SOURCES.txt'
+[1.957s] writing manifest file 'package_task.egg-info/SOURCES.txt'
+[1.979s] running build_ext
+[1.979s] Creating /home/es/ros-start/install/package_task/lib/python3.10/site-packages/package-task.egg-link (link to .)
+[1.979s] 
+[1.979s] Installed /home/es/ros-start/build/package_task
+[1.979s] running symlink_data
+[1.979s] creating /home/es/ros-start/install/package_task/share/ament_index
+[1.979s] creating /home/es/ros-start/install/package_task/share/ament_index/resource_index
+[1.979s] creating /home/es/ros-start/install/package_task/share/ament_index/resource_index/packages
+[1.979s] symbolically linking /home/es/ros-start/build/package_task/resource/package_task -> /home/es/ros-start/install/package_task/share/ament_index/resource_index/packages
+[1.979s] symbolically linking /home/es/ros-start/build/package_task/package.xml -> /home/es/ros-start/install/package_task/share/package_task
+[2.032s] Invoked command in '/home/es/ros-start/build/package_task' returned '0': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data

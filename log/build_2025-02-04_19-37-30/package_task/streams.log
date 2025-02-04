@@ -1,0 +1,18 @@
+[1.261s] Invoking command in '/home/es/ros-start/build/package_task': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data
+[1.705s] running develop
+[1.995s] running egg_info
+[2.022s] writing package_task.egg-info/PKG-INFO
+[2.022s] writing dependency_links to package_task.egg-info/dependency_links.txt
+[2.022s] writing entry points to package_task.egg-info/entry_points.txt
+[2.022s] writing requirements to package_task.egg-info/requires.txt
+[2.022s] writing top-level names to package_task.egg-info/top_level.txt
+[2.055s] reading manifest file 'package_task.egg-info/SOURCES.txt'
+[2.056s] writing manifest file 'package_task.egg-info/SOURCES.txt'
+[2.077s] running build_ext
+[2.077s] Creating /home/es/ros-start/install/package_task/lib/python3.10/site-packages/package-task.egg-link (link to .)
+[2.077s] Installing task_node script to /home/es/ros-start/install/package_task/lib/package_task
+[2.078s] Installing turtle_controller script to /home/es/ros-start/install/package_task/lib/package_task
+[2.078s] 
+[2.078s] Installed /home/es/ros-start/build/package_task
+[2.078s] running symlink_data
+[2.129s] Invoked command in '/home/es/ros-start/build/package_task' returned '0': PYTHONPATH=/home/es/ros-start/build/package_task/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/es/ros-start/install/package_task/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/es/ros-start/build/package_task/build --no-deps symlink_data

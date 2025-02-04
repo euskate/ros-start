@@ -1,0 +1,6 @@
+[console_scripts]
+task_node = package_task.task_node:main
+turtle_controller = package_task.turtle_controller:main
+turtle_patterns = package_task.turtle_patterns:main
+turtle_race = package_task.turtle_race:main
+turtle_spawn = package_task.turtle_spawn:main

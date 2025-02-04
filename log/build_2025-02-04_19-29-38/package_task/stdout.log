@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing package_task.egg-info/PKG-INFO
+writing dependency_links to package_task.egg-info/dependency_links.txt
+writing entry points to package_task.egg-info/entry_points.txt
+writing requirements to package_task.egg-info/requires.txt
+writing top-level names to package_task.egg-info/top_level.txt
+reading manifest file 'package_task.egg-info/SOURCES.txt'
+writing manifest file 'package_task.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/es/ros-start/install/package_task/lib/python3.10/site-packages/package-task.egg-link (link to .)
+Installing task_node script to /home/es/ros-start/install/package_task/lib/package_task
+
+Installed /home/es/ros-start/build/package_task
+running symlink_data

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+package_task/__init__.py
+package_task/task_node.py
+package_task/turtle_controller.py
+package_task/turtle_patterns.py
+package_task/turtle_race.py
+package_task/turtle_spawn.py
+package_task.egg-info/PKG-INFO
+package_task.egg-info/SOURCES.txt
+package_task.egg-info/dependency_links.txt
+package_task.egg-info/entry_points.txt
+package_task.egg-info/requires.txt
+package_task.egg-info/top_level.txt
+package_task.egg-info/zip-safe
+resource/package_task
