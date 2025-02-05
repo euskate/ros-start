@@ -2,8 +2,9 @@
 
 - OS : Ubuntu 22.04 (Windows VirtualBox를 이용)
 - ROS 2 Humble
-- 과제 노션 페이지 
+- 과제 노션 페이지
 ```
+├─cosim : CoppeliaSim Pioneer3D (과제3)
 ├─shell : 환경 설치 셸 스크립트
 └─src
     ├─topic : ROS topic 개념 이해 예제 (과제1)
@@ -67,7 +68,7 @@ echo "alias humble=\"source /opt/ros/humble/setup.bash; echo \'ROS Humble activa
     python3 robot_central_monitor.py
     ```
 
-## 패키지 (과제)
+## ROS2 패키지 실습 (과제2)
 1. 빌드
 ```
 cd ~/ros-start
@@ -122,3 +123,16 @@ source install/setup.bash
     → 거북이들이 원, 사각형, 삼각형 등의 도형을 그리면서 이동합니다.
     
     ![2025-02-04 20 28 24.gif](./img/과제2_실행3.gif)
+
+## 과제 3 : copelliasim 장애물 회피 알고리즘
+
+```
+# 디렉토리 진입
+cd cosim
+# 가상환경 생성
+python -m venv cosim
+# 가상환경 진입
+.\cosim\Scripts\activate
+# 라이브러리 설치
+pip install pyzmq cbor2 coppeliasim-zmqremoteapi-client pynput numpy
+```
